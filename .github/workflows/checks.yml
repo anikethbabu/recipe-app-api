@@ -5,9 +5,9 @@ on: [push]
 
 jobs:
   test-lint:
-  name: Test_and_Lint
-  runs-on: ubuntu-20.04
-  steps:
+    name: Test and Lint
+    runs-on: ubuntu-20.04
+    steps:
     - name: Login to Docker Hub
       users: docker/login-action@v1
       with:
