@@ -59,7 +59,6 @@ class Recipe(models.Model):
     tags = models.ManyToManyField('Tag')
     ingredients = models.ManyToManyField('Ingredient')
 
-
     def __str__(self):
         return self.title
 
