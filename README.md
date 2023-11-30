@@ -1,4 +1,4 @@
-![example workflow](https://github.com/anikethbabu/docs/.github/workflows/main.yml/badge.svg)
+[![Tests](https://github.com/anikethbabu/recipe-app-api/actions/workflows/checks.yml/badge.svg)](https://github.com/anikethbabu/recipe-app-api/actions/workflows/checks.yml)
 
 # recipe-app-api
 Welcome to the Recipe Management API project! This project leverages the power of Docker, Django, Django Rest Framework (DRF), Postgres, Nginx, Pillow, and DRF-Spectacular to create a robust REST API. The API is designed to facilitate the creation and management of recipes, allowing users to organize their culinary creations with tags, descriptions, preparation time, pictures, and more.
