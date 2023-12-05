@@ -4,7 +4,7 @@
 Welcome to the Recipe Management API project! This project leverages the power of Docker, Django, Django Rest Framework (DRF), Postgres, Nginx, Pillow, and DRF-Spectacular to create a robust REST API. The API is designed to facilitate the creation and management of recipes, allowing users to organize their culinary creations with tags, descriptions, preparation time, pictures, and more.
 
 ## Prerequisites
-This project requires docker and docker-compose to run
+This project requires docker and docker-compose to be installed.
 Before running the application, ensure that the following prerequisites are met:
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
